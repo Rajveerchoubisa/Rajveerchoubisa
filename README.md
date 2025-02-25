@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajveer Choubisa</h1>
 <h3 align="center">I am a passionate Software Developer dedicated to building efficient, scalable, and user-friendly applications. With a strong foundation in both front-end and back-end technologies.</h3>
 
-- 📫 How to reach me **ranveer0596@gmail.com**
+- 📫 How to reach me **rajveer.choubisa22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
